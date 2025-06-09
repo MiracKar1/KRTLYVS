@@ -1,0 +1,38 @@
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+Packages/
+Package.pins
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# User-specific files
+*.swp
+*.lock
+*.log
+*.DS_Store
+
+# Others
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Firebase plist
+GoogleService-Info.plist
